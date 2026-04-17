@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/UIUX/index.html",
+      "permanent": false
+    }
+  ]
+}
